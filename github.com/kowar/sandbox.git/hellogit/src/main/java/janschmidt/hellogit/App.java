@@ -1,13 +1,13 @@
 package janschmidt.hellogit;
 
 /**
- * Hello world!
+ * Hello wörld!
  *
  */
 public class App {
 
 	public static void main(String[] args) {
-		System.out.println("Hello f**king World!");
+		System.out.println("Everything louder than everything else");
 	}
 
 }
